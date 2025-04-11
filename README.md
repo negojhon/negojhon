@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do NegoJhon 😁
 
  <div>
-   <a href="https://github.com/negojhon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=negojhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negojhon&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/JhonKennedy">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonKennedy&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
